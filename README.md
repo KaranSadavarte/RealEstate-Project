@@ -61,3 +61,6 @@ Update config.php with your database credentials
 Start Apache and MySQL via XAMPP/WAMP
 
 Access the project via http://localhost/RealEstate-PHP
+
+![WhatsApp Image 2025-04-15 at 18 04 55_f53d93d2](https://github.com/user-attachments/assets/cc7d9b18-dd73-42a2-a2ac-b1c04cb33cea)
+
