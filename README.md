@@ -1,5 +1,6 @@
 # 🏠 RealEstate-PHP Project
 A complete real estate listing and property management system built using PHP and MySQL. This web application allows users to search, list, and manage properties while also providing admin functionalities to handle listings and user accounts.
+
 #🔍 Features
 ##👤 User Module
 User registration and login
@@ -39,12 +40,14 @@ RealEstate-PHP/
 ├── admin/                 # Admin panel files
 ├── config.php             # Database configuration
 └── ...
+
 #🛠️ Tech Stack
 Frontend: HTML, CSS, Bootstrap
 
 Backend: PHP
 
 Database: MySQL
+
 
 #🚀 How to Run Locally
 Clone the repository
